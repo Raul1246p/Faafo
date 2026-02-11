@@ -6,7 +6,7 @@ def hello_world(name="print"):
     if name == "print":
         print("Hello, World!")
 
-    elif name == "print":
+    elif name == "":
         print("Hello, World!")
         
     else:
